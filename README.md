@@ -1,5 +1,5 @@
 ##  Who Am I? 
-My name is Charlie Akin and I am a senior studying Business Analytics at The University of Tennessee Knoxville. I love learning about coding and optimizing things.
+My name is Charlie Akin and I love learning!
 
 
 ## My interests 👀
@@ -14,7 +14,7 @@ My name is Charlie Akin and I am a senior studying Business Analytics at The Uni
 
 ## 📖 Currently learning...
 - Python
-- Text analytics in Python
+- ML in python (Scikit-Learn, Keras and TensorFlow)
 - SQL
 
 ## Get in touch with me! 
