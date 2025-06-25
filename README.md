@@ -1,5 +1,5 @@
 ##  Who Am I? 
-My name is Charlie Akin and I love learning!
+My name is Charlie and I love learning!
 
 
 ## My interests 👀
@@ -11,14 +11,15 @@ My name is Charlie Akin and I love learning!
 - Learning
 - Working out
 - Having fun with friends
+- Cybersecurity 
 
 ## 📖 Currently learning...
 - Python
 - ML in python (Scikit-Learn, Keras and TensorFlow)
 - SQL
-
-## Get in touch with me! 
-Here is my LinkedIn www.linkedin.com/in/charlieakin 
+- Cybersecurity 
+- CompTIA Secruity+
+ 
 
 
 
